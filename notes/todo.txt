@@ -1,0 +1,8 @@
+Main subparts to do before the quiz - 
+  1. Graphs
+  2. Sorting
+  3. Red Black Trees (insertion, deleteion and conversion to 2-4 Trees)
+
+
+Graphs- 
+q. when to use which representation of graphs - edge list, adjacency list and map, adjacency matrix
