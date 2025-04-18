@@ -1,0 +1,2 @@
+Q. definition of maximal connected subgraphs?
+A. connected components are also called maximal connected subgraphs.
