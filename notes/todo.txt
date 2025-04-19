@@ -6,3 +6,5 @@ Main subparts to do before the quiz -
 
 Graphs- 
 q. when to use which representation of graphs - edge list, adjacency list and map, adjacency matrix
+1. screeshots of yt vids, ughhh....
+
