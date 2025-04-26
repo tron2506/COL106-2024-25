@@ -1,2 +1,19 @@
 Q. definition of maximal connected subgraphs?
 A. connected components are also called maximal connected subgraphs.
+
+q. what are the applications of bfs- 
+1. no of connected components(can also be found by dfs)
+2. shortest path.
+3. whether graph is bipartite
+4. cycle detection in undirected graphs
+5. level order traversal of trees
+
+Q. Also in lec 25 what is the role of Pi which stores the parent of a node (the parent through which it entered the bfs)
+
+Q. BFS algorithm screenshot at 41.25 in lec 25
+
+Q. Predecessor subgraph of G is the breadth first tree of G.
+
+Q. Which of the the two bfs or dfs was asked to be written without recursion ?
+
+
